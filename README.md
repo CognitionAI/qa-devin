@@ -2,13 +2,15 @@
 At Cognition we use Devin for Quality Assurance and end-to-end testing.
 
 ### Devin uses its browser to open app.devin.ai and test its functionality.
-<img width="1496" alt="image" src="https://github.com/user-attachments/assets/c350c30b-8825-4d43-80b3-73419a01eb91">
+<img width="1496" alt="394167067-c350c30b-8825-4d43-80b3-73419a01eb91" src="https://github.com/user-attachments/assets/845f7440-c5d1-4f8b-8229-049ee9e834fa">
+
 
 ### Devin opens a Slack page and starts a new devin session with @Devin
-<img width="1496" alt="image" src="https://github.com/user-attachments/assets/5c3a5e0c-8135-4c79-86c0-658f974bf6a5">
+<img width="1496" alt="394176239-5c3a5e0c-8135-4c79-86c0-658f974bf6a5" src="https://github.com/user-attachments/assets/989390bd-c786-4b54-8ea1-6cf091e60431">
+
 
 ### Final results sent to Slack
-<img width="788" alt="image" src="https://github.com/user-attachments/assets/606f7fb1-d8a7-4e25-a209-b57ec91277fe">
+<img width="788" alt="394176066-606f7fb1-d8a7-4e25-a209-b57ec91277fe" src="https://github.com/user-attachments/assets/dfaa16de-f17c-43b5-bf27-09a5c1637d2c">
 
 
 ## Example Tests
